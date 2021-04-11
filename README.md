@@ -11,4 +11,4 @@ You must use @debugTimeMethod or @infoTimeMethod with TimeMeasurement trait.
       }
     }
   
-See example in object simple-timer/core/src/main/scala/timer/Test.scala
+### See example in object simple-timer/core/src/main/scala/timer/Test.scala
